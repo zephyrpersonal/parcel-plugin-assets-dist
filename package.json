@@ -1,6 +1,9 @@
 {
   "name": "parcel-plugin-assets-dist",
   "version": "1.0.0",
+  "repository": {
+    "git": "https://github.com/zephyrpersonal/parcel-plugin-assets-dist.git"
+  },
   "main": "index.js",
   "license": "MIT"
 }
